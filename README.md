@@ -13,7 +13,7 @@ I'm still deciding what to build. I'm trying to choose between the following 4 p
     3. A simple photo effects app
     4. A joke telling app
     
-I think the drawing app will be the most challenging to build, and the photo effects app will be more in line with what I've learned so far in this course. The joke telling app will be fun to make, and the timeline would be a great project that I can keep adding to.
+I think the drawing app will be the most challenging to build, and the photo effects app will be most in line with what I've learned so far in this course. The joke telling app will be fun to make, and the timeline would be a great project that I can keep adding to.
     
 I'll post my decision tomorrow! :smile:
 
