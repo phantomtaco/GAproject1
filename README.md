@@ -18,4 +18,24 @@ I think the drawing app will be the most challenging to build, and the photo eff
 I'll post my decision tomorrow! :smile:
 
 Day 2: 9 December 2020
-    
+
+I've decided to build a joke telling app because it will be fun and simple but challenging enough.
+
+Day 3: 10 December 2020
+
+I've been watching videos for inspiration and answers. The following have been useful so far:
+
+https://www.youtube.com/watch?v=UDIfuvLEkjU
+
+https://www.youtube.com/watch?v=SVqbskuRxKo
+
+https://www.youtube.com/watch?v=GZvSYJDk-us :heart:
+
+Day 3: 11 December 2020
+
+I've been wavering a bit on my decision to build a joke generator after learning more about the project ideas of others in my class but I'm going to stick it out. I've built the HTML for the app and going on to develop the CSS now. Call it procrastinating on the JS part. :tongue:
+
+Day 4: 12 December 2020
+
+
+
