@@ -37,5 +37,15 @@ I've been wavering a bit on my decision to build a joke generator after learning
 
 Day 4: 12 December 2020
 
+COuldn't get the Voice RSS API to work. Making joke display on page instead.
 
+Day 5: 13 December 2020
+
+Sunday - The day of no rest. Still working on both APIs. 
+
+Day 6: 14 December 2020
+
+I found an API that works for me and it seems to be widely used across beginner tutorials so I'll run with it.
+
+Day 7: 15 December 2020
 
