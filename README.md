@@ -49,3 +49,5 @@ I found an API that works for me and it seems to be widely used across beginner 
 
 Day 7: 15 December 2020
 
+Judgement day has arrived!
+
